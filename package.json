@@ -22,7 +22,7 @@
     "erlpack": "github:discordapp/erlpack",
     "ffmpeg-static": "^3.0.0",
     "libsodium-wrappers": "^0.7.6",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "mongodb": "^3.5.5",
     "node-opus": "^0.3.3",
     "opusscript": "0.0.6",
