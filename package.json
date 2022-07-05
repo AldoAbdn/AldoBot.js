@@ -15,7 +15,7 @@
   "author": "Alistair Quinn",
   "license": "MIT",
   "dependencies": {
-    "@discordjs/opus": "^0.1.0",
+    "@discordjs/opus": "^0.8.0",
     "bufferutil": "^4.0.1",
     "chalk": "^4.0.0",
     "discord.js": "^12.1.1",
